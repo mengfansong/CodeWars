@@ -43,7 +43,7 @@ namespace Directions_Reduction
             string[] strs = new string[o.Length];
             for (int i = 0; i < o.Length; i++)
             {
-                strs[i] = o[o.Length-1-i].ToString();
+                strs[i] = o[o.Length-1-i].ToString();           //还有Reverse() 方法
             }
             return strs;
 
