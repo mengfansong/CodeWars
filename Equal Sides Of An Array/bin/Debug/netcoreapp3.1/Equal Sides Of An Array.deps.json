@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Equal Sides Of An Array/1.0.0": {
+        "runtime": {
+          "Equal Sides Of An Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Equal Sides Of An Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

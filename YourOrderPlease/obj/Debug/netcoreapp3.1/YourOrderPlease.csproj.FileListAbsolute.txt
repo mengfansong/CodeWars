@@ -1,0 +1,13 @@
+E:\Project\算法\YourOrderPlease\bin\Debug\netcoreapp3.1\YourOrderPlease.exe
+E:\Project\算法\YourOrderPlease\bin\Debug\netcoreapp3.1\YourOrderPlease.deps.json
+E:\Project\算法\YourOrderPlease\bin\Debug\netcoreapp3.1\YourOrderPlease.runtimeconfig.json
+E:\Project\算法\YourOrderPlease\bin\Debug\netcoreapp3.1\YourOrderPlease.runtimeconfig.dev.json
+E:\Project\算法\YourOrderPlease\bin\Debug\netcoreapp3.1\YourOrderPlease.dll
+E:\Project\算法\YourOrderPlease\bin\Debug\netcoreapp3.1\YourOrderPlease.pdb
+E:\Project\算法\YourOrderPlease\obj\Debug\netcoreapp3.1\YourOrderPlease.csprojAssemblyReference.cache
+E:\Project\算法\YourOrderPlease\obj\Debug\netcoreapp3.1\YourOrderPlease.AssemblyInfoInputs.cache
+E:\Project\算法\YourOrderPlease\obj\Debug\netcoreapp3.1\YourOrderPlease.AssemblyInfo.cs
+E:\Project\算法\YourOrderPlease\obj\Debug\netcoreapp3.1\YourOrderPlease.csproj.CoreCompileInputs.cache
+E:\Project\算法\YourOrderPlease\obj\Debug\netcoreapp3.1\YourOrderPlease.dll
+E:\Project\算法\YourOrderPlease\obj\Debug\netcoreapp3.1\YourOrderPlease.pdb
+E:\Project\算法\YourOrderPlease\obj\Debug\netcoreapp3.1\YourOrderPlease.genruntimeconfig.cache
