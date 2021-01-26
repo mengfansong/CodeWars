@@ -28,6 +28,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickSort", "BCL Test\Quick
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicate Encoder", "Duplicate Encoder\Duplicate Encoder.csproj", "{19869F7B-047D-4A57-B03C-2C31120B33B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product of consecutive Fib numbers", "Product of consecutive Fib numbers\Product of consecutive Fib numbers.csproj", "{B6531BF6-DB70-42F1-B627-78ADC202F29E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,10 @@ Global
 		{19869F7B-047D-4A57-B03C-2C31120B33B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19869F7B-047D-4A57-B03C-2C31120B33B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19869F7B-047D-4A57-B03C-2C31120B33B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6531BF6-DB70-42F1-B627-78ADC202F29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6531BF6-DB70-42F1-B627-78ADC202F29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6531BF6-DB70-42F1-B627-78ADC202F29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6531BF6-DB70-42F1-B627-78ADC202F29E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
