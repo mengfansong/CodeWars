@@ -16,13 +16,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Growth of a Population", "G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToCamelCase", "ToCamelCase\ToCamelCase.csproj", "{6C10AF9F-DC91-492B-A64E-3780BC3092CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directions Reduction", "Directions Reduction\Directions Reduction.csproj", "{188AFD52-F31C-4FEE-93FC-7962B4295328}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Directions Reduction", "Directions Reduction\Directions Reduction.csproj", "{188AFD52-F31C-4FEE-93FC-7962B4295328}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equal Sides Of An Array", "Equal Sides Of An Array\Equal Sides Of An Array.csproj", "{1DA8443C-038F-4AD6-991D-206E42F422EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equal Sides Of An Array", "Equal Sides Of An Array\Equal Sides Of An Array.csproj", "{1DA8443C-038F-4AD6-991D-206E42F422EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isograms", "Isograms\Isograms.csproj", "{150302E1-5666-48B4-8AB5-5984534D88F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Isograms", "Isograms\Isograms.csproj", "{150302E1-5666-48B4-8AB5-5984534D88F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistent Bugger", "Persistent Bugger\Persistent Bugger.csproj", "{67DC5C01-4487-44BE-AE59-EB9A6E2BF1B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistent Bugger", "Persistent Bugger\Persistent Bugger.csproj", "{67DC5C01-4487-44BE-AE59-EB9A6E2BF1B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickSort", "BCL Test\QuickSort.csproj", "{4D361EA2-B979-49B2-900E-5F555C07E807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicate Encoder", "Duplicate Encoder\Duplicate Encoder.csproj", "{19869F7B-047D-4A57-B03C-2C31120B33B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +66,14 @@ Global
 		{67DC5C01-4487-44BE-AE59-EB9A6E2BF1B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67DC5C01-4487-44BE-AE59-EB9A6E2BF1B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67DC5C01-4487-44BE-AE59-EB9A6E2BF1B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D361EA2-B979-49B2-900E-5F555C07E807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D361EA2-B979-49B2-900E-5F555C07E807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D361EA2-B979-49B2-900E-5F555C07E807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D361EA2-B979-49B2-900E-5F555C07E807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19869F7B-047D-4A57-B03C-2C31120B33B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19869F7B-047D-4A57-B03C-2C31120B33B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19869F7B-047D-4A57-B03C-2C31120B33B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19869F7B-047D-4A57-B03C-2C31120B33B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

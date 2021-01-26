@@ -1,0 +1,12 @@
+E:\Project\算法\Duplicate Encoder\bin\Debug\netcoreapp3.1\Duplicate Encoder.exe
+E:\Project\算法\Duplicate Encoder\bin\Debug\netcoreapp3.1\Duplicate Encoder.deps.json
+E:\Project\算法\Duplicate Encoder\bin\Debug\netcoreapp3.1\Duplicate Encoder.runtimeconfig.json
+E:\Project\算法\Duplicate Encoder\bin\Debug\netcoreapp3.1\Duplicate Encoder.runtimeconfig.dev.json
+E:\Project\算法\Duplicate Encoder\bin\Debug\netcoreapp3.1\Duplicate Encoder.dll
+E:\Project\算法\Duplicate Encoder\bin\Debug\netcoreapp3.1\Duplicate Encoder.pdb
+E:\Project\算法\Duplicate Encoder\obj\Debug\netcoreapp3.1\Duplicate Encoder.AssemblyInfoInputs.cache
+E:\Project\算法\Duplicate Encoder\obj\Debug\netcoreapp3.1\Duplicate Encoder.AssemblyInfo.cs
+E:\Project\算法\Duplicate Encoder\obj\Debug\netcoreapp3.1\Duplicate Encoder.csproj.CoreCompileInputs.cache
+E:\Project\算法\Duplicate Encoder\obj\Debug\netcoreapp3.1\Duplicate Encoder.dll
+E:\Project\算法\Duplicate Encoder\obj\Debug\netcoreapp3.1\Duplicate Encoder.pdb
+E:\Project\算法\Duplicate Encoder\obj\Debug\netcoreapp3.1\Duplicate Encoder.genruntimeconfig.cache
