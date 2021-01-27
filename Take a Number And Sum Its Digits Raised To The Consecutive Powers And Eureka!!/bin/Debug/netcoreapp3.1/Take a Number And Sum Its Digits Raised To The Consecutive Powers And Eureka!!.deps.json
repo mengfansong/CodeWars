@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Take a Number And Sum Its Digits Raised To The Consecutive Powers And Eureka!!/1.0.0": {
+        "runtime": {
+          "Take a Number And Sum Its Digits Raised To The Consecutive Powers And Eureka!!.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Take a Number And Sum Its Digits Raised To The Consecutive Powers And Eureka!!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
