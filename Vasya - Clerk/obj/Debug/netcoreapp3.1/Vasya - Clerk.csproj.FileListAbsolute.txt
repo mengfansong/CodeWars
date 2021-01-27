@@ -1,0 +1,12 @@
+E:\Project\算法\Vasya - Clerk\bin\Debug\netcoreapp3.1\Vasya - Clerk.exe
+E:\Project\算法\Vasya - Clerk\bin\Debug\netcoreapp3.1\Vasya - Clerk.deps.json
+E:\Project\算法\Vasya - Clerk\bin\Debug\netcoreapp3.1\Vasya - Clerk.runtimeconfig.json
+E:\Project\算法\Vasya - Clerk\bin\Debug\netcoreapp3.1\Vasya - Clerk.runtimeconfig.dev.json
+E:\Project\算法\Vasya - Clerk\bin\Debug\netcoreapp3.1\Vasya - Clerk.dll
+E:\Project\算法\Vasya - Clerk\bin\Debug\netcoreapp3.1\Vasya - Clerk.pdb
+E:\Project\算法\Vasya - Clerk\obj\Debug\netcoreapp3.1\Vasya - Clerk.AssemblyInfoInputs.cache
+E:\Project\算法\Vasya - Clerk\obj\Debug\netcoreapp3.1\Vasya - Clerk.AssemblyInfo.cs
+E:\Project\算法\Vasya - Clerk\obj\Debug\netcoreapp3.1\Vasya - Clerk.csproj.CoreCompileInputs.cache
+E:\Project\算法\Vasya - Clerk\obj\Debug\netcoreapp3.1\Vasya - Clerk.dll
+E:\Project\算法\Vasya - Clerk\obj\Debug\netcoreapp3.1\Vasya - Clerk.pdb
+E:\Project\算法\Vasya - Clerk\obj\Debug\netcoreapp3.1\Vasya - Clerk.genruntimeconfig.cache
