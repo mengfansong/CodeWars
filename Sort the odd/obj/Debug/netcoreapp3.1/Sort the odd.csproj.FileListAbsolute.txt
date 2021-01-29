@@ -1,0 +1,13 @@
+E:\Project\算法\Sort the odd\bin\Debug\netcoreapp3.1\Sort the odd.exe
+E:\Project\算法\Sort the odd\bin\Debug\netcoreapp3.1\Sort the odd.deps.json
+E:\Project\算法\Sort the odd\bin\Debug\netcoreapp3.1\Sort the odd.runtimeconfig.json
+E:\Project\算法\Sort the odd\bin\Debug\netcoreapp3.1\Sort the odd.runtimeconfig.dev.json
+E:\Project\算法\Sort the odd\bin\Debug\netcoreapp3.1\Sort the odd.dll
+E:\Project\算法\Sort the odd\bin\Debug\netcoreapp3.1\Sort the odd.pdb
+E:\Project\算法\Sort the odd\obj\Debug\netcoreapp3.1\Sort the odd.csprojAssemblyReference.cache
+E:\Project\算法\Sort the odd\obj\Debug\netcoreapp3.1\Sort the odd.AssemblyInfoInputs.cache
+E:\Project\算法\Sort the odd\obj\Debug\netcoreapp3.1\Sort the odd.AssemblyInfo.cs
+E:\Project\算法\Sort the odd\obj\Debug\netcoreapp3.1\Sort the odd.csproj.CoreCompileInputs.cache
+E:\Project\算法\Sort the odd\obj\Debug\netcoreapp3.1\Sort the odd.dll
+E:\Project\算法\Sort the odd\obj\Debug\netcoreapp3.1\Sort the odd.pdb
+E:\Project\算法\Sort the odd\obj\Debug\netcoreapp3.1\Sort the odd.genruntimeconfig.cache

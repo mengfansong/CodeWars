@@ -30,11 +30,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Duplicate Encoder", "Duplic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product of consecutive Fib numbers", "Product of consecutive Fib numbers\Product of consecutive Fib numbers.csproj", "{B6531BF6-DB70-42F1-B627-78ADC202F29E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "两数之和", "两数之和\两数之和.csproj", "{74B02001-2FA5-4D33-B552-F7918DA1318A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "两数之和", "两数之和\两数之和.csproj", "{74B02001-2FA5-4D33-B552-F7918DA1318A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vasya - Clerk", "Vasya - Clerk\Vasya - Clerk.csproj", "{9DB16BBC-CD2D-48D4-8442-5C7A5E58D6B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vasya - Clerk", "Vasya - Clerk\Vasya - Clerk.csproj", "{9DB16BBC-CD2D-48D4-8442-5C7A5E58D6B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Take a Number And Sum Its Digits Raised To The Consecutive Powers And Eureka!!", "Take a Number And Sum Its Digits Raised To The Consecutive Powers And Eureka!!\Take a Number And Sum Its Digits Raised To The Consecutive Powers And Eureka!!.csproj", "{4E9C4706-2424-4F1C-9AD3-12F385A758C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Take a Number And Sum Its Digits Raised To The Consecutive Powers And Eureka!!", "Take a Number And Sum Its Digits Raised To The Consecutive Powers And Eureka!!\Take a Number And Sum Its Digits Raised To The Consecutive Powers And Eureka!!.csproj", "{4E9C4706-2424-4F1C-9AD3-12F385A758C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort the odd", "Sort the odd\Sort the odd.csproj", "{F22B38E6-423F-4B28-A4A2-3BCFFA9E2491}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -98,6 +100,10 @@ Global
 		{4E9C4706-2424-4F1C-9AD3-12F385A758C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E9C4706-2424-4F1C-9AD3-12F385A758C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E9C4706-2424-4F1C-9AD3-12F385A758C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F22B38E6-423F-4B28-A4A2-3BCFFA9E2491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22B38E6-423F-4B28-A4A2-3BCFFA9E2491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22B38E6-423F-4B28-A4A2-3BCFFA9E2491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22B38E6-423F-4B28-A4A2-3BCFFA9E2491}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
