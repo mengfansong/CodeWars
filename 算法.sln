@@ -38,7 +38,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Take a Number And Sum Its D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort the odd", "Sort the odd\Sort the odd.csproj", "{F22B38E6-423F-4B28-A4A2-3BCFFA9E2491}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Josephus Permutation", "Josephus Permutation\Josephus Permutation.csproj", "{B9D77169-0ECB-4C56-A28E-49EC70B2284B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Josephus Permutation", "Josephus Permutation\Josephus Permutation.csproj", "{B9D77169-0ECB-4C56-A28E-49EC70B2284B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snail Sort", "Snail Sort\Snail Sort.csproj", "{F23490E1-6BBC-499C-8FC9-9AA75F01E528}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -110,6 +112,10 @@ Global
 		{B9D77169-0ECB-4C56-A28E-49EC70B2284B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9D77169-0ECB-4C56-A28E-49EC70B2284B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9D77169-0ECB-4C56-A28E-49EC70B2284B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23490E1-6BBC-499C-8FC9-9AA75F01E528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23490E1-6BBC-499C-8FC9-9AA75F01E528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23490E1-6BBC-499C-8FC9-9AA75F01E528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23490E1-6BBC-499C-8FC9-9AA75F01E528}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

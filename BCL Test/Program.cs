@@ -58,12 +58,6 @@ namespace QuickSort
                         if (arr[j] <= pivot)        //最后一个数比基准值（当前第一个值）小，把值给第一个。
                         {
                             arr[i] = arr[j];
-                            //Console.WriteLine("arr[i]="+arr[i]);
-                            //foreach (var item in arr)
-                            //{
-                            //    Console.Write(item + " ");
-                            //}
-
                             break;
                         }
                         else

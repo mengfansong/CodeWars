@@ -1,0 +1,13 @@
+E:\Project\算法\Snail Sort\bin\Debug\netcoreapp3.1\Snail Sort.exe
+E:\Project\算法\Snail Sort\bin\Debug\netcoreapp3.1\Snail Sort.deps.json
+E:\Project\算法\Snail Sort\bin\Debug\netcoreapp3.1\Snail Sort.runtimeconfig.json
+E:\Project\算法\Snail Sort\bin\Debug\netcoreapp3.1\Snail Sort.runtimeconfig.dev.json
+E:\Project\算法\Snail Sort\bin\Debug\netcoreapp3.1\Snail Sort.dll
+E:\Project\算法\Snail Sort\bin\Debug\netcoreapp3.1\Snail Sort.pdb
+E:\Project\算法\Snail Sort\obj\Debug\netcoreapp3.1\Snail Sort.AssemblyInfoInputs.cache
+E:\Project\算法\Snail Sort\obj\Debug\netcoreapp3.1\Snail Sort.AssemblyInfo.cs
+E:\Project\算法\Snail Sort\obj\Debug\netcoreapp3.1\Snail Sort.csproj.CoreCompileInputs.cache
+E:\Project\算法\Snail Sort\obj\Debug\netcoreapp3.1\Snail Sort.dll
+E:\Project\算法\Snail Sort\obj\Debug\netcoreapp3.1\Snail Sort.pdb
+E:\Project\算法\Snail Sort\obj\Debug\netcoreapp3.1\Snail Sort.genruntimeconfig.cache
+E:\Project\算法\Snail Sort\obj\Debug\netcoreapp3.1\Snail Sort.csprojAssemblyReference.cache
