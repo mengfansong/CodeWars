@@ -1,0 +1,12 @@
+E:\Project\算法\Where my anagrams at\obj\Debug\netcoreapp3.1\Where my anagrams at.AssemblyInfoInputs.cache
+E:\Project\算法\Where my anagrams at\obj\Debug\netcoreapp3.1\Where my anagrams at.AssemblyInfo.cs
+E:\Project\算法\Where my anagrams at\obj\Debug\netcoreapp3.1\Where my anagrams at.csproj.CoreCompileInputs.cache
+E:\Project\算法\Where my anagrams at\bin\Debug\netcoreapp3.1\Where my anagrams at.exe
+E:\Project\算法\Where my anagrams at\bin\Debug\netcoreapp3.1\Where my anagrams at.deps.json
+E:\Project\算法\Where my anagrams at\bin\Debug\netcoreapp3.1\Where my anagrams at.runtimeconfig.json
+E:\Project\算法\Where my anagrams at\bin\Debug\netcoreapp3.1\Where my anagrams at.runtimeconfig.dev.json
+E:\Project\算法\Where my anagrams at\bin\Debug\netcoreapp3.1\Where my anagrams at.dll
+E:\Project\算法\Where my anagrams at\bin\Debug\netcoreapp3.1\Where my anagrams at.pdb
+E:\Project\算法\Where my anagrams at\obj\Debug\netcoreapp3.1\Where my anagrams at.dll
+E:\Project\算法\Where my anagrams at\obj\Debug\netcoreapp3.1\Where my anagrams at.pdb
+E:\Project\算法\Where my anagrams at\obj\Debug\netcoreapp3.1\Where my anagrams at.genruntimeconfig.cache

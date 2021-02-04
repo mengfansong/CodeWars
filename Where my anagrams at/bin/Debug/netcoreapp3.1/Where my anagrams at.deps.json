@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Where my anagrams at/1.0.0": {
+        "runtime": {
+          "Where my anagrams at.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Where my anagrams at/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
