@@ -1,0 +1,13 @@
+E:\Project\算法\What's a Perfect Power anyway\obj\Debug\netcoreapp3.1\What's a Perfect Power anyway.csprojAssemblyReference.cache
+E:\Project\算法\What's a Perfect Power anyway\obj\Debug\netcoreapp3.1\What's a Perfect Power anyway.AssemblyInfoInputs.cache
+E:\Project\算法\What's a Perfect Power anyway\obj\Debug\netcoreapp3.1\What's a Perfect Power anyway.AssemblyInfo.cs
+E:\Project\算法\What's a Perfect Power anyway\obj\Debug\netcoreapp3.1\What's a Perfect Power anyway.csproj.CoreCompileInputs.cache
+E:\Project\算法\What's a Perfect Power anyway\bin\Debug\netcoreapp3.1\What's a Perfect Power anyway.exe
+E:\Project\算法\What's a Perfect Power anyway\bin\Debug\netcoreapp3.1\What's a Perfect Power anyway.deps.json
+E:\Project\算法\What's a Perfect Power anyway\bin\Debug\netcoreapp3.1\What's a Perfect Power anyway.runtimeconfig.json
+E:\Project\算法\What's a Perfect Power anyway\bin\Debug\netcoreapp3.1\What's a Perfect Power anyway.runtimeconfig.dev.json
+E:\Project\算法\What's a Perfect Power anyway\bin\Debug\netcoreapp3.1\What's a Perfect Power anyway.dll
+E:\Project\算法\What's a Perfect Power anyway\bin\Debug\netcoreapp3.1\What's a Perfect Power anyway.pdb
+E:\Project\算法\What's a Perfect Power anyway\obj\Debug\netcoreapp3.1\What's a Perfect Power anyway.dll
+E:\Project\算法\What's a Perfect Power anyway\obj\Debug\netcoreapp3.1\What's a Perfect Power anyway.pdb
+E:\Project\算法\What's a Perfect Power anyway\obj\Debug\netcoreapp3.1\What's a Perfect Power anyway.genruntimeconfig.cache

@@ -44,7 +44,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snail Sort", "Snail Sort\Sn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Where my anagrams at", "Where my anagrams at\Where my anagrams at.csproj", "{046F7DB6-8B38-4016-B6FD-956D85E8A4BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count IP Addresses", "Count IP Addresses\Count IP Addresses.csproj", "{7A873028-21D4-42BB-8C8A-FCABAAFDB609}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count IP Addresses", "Count IP Addresses\Count IP Addresses.csproj", "{7A873028-21D4-42BB-8C8A-FCABAAFDB609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "What's a Perfect Power anyway", "What's a Perfect Power anyway\What's a Perfect Power anyway.csproj", "{0CAE57CA-FF8D-4D63-BC51-304E6C78571D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -128,6 +130,10 @@ Global
 		{7A873028-21D4-42BB-8C8A-FCABAAFDB609}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A873028-21D4-42BB-8C8A-FCABAAFDB609}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A873028-21D4-42BB-8C8A-FCABAAFDB609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CAE57CA-FF8D-4D63-BC51-304E6C78571D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CAE57CA-FF8D-4D63-BC51-304E6C78571D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CAE57CA-FF8D-4D63-BC51-304E6C78571D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CAE57CA-FF8D-4D63-BC51-304E6C78571D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
