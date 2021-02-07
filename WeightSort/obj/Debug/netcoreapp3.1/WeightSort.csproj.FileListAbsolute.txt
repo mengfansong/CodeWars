@@ -1,0 +1,13 @@
+E:\Project\算法\WeightSort\bin\Debug\netcoreapp3.1\WeightSort.exe
+E:\Project\算法\WeightSort\bin\Debug\netcoreapp3.1\WeightSort.deps.json
+E:\Project\算法\WeightSort\bin\Debug\netcoreapp3.1\WeightSort.runtimeconfig.json
+E:\Project\算法\WeightSort\bin\Debug\netcoreapp3.1\WeightSort.runtimeconfig.dev.json
+E:\Project\算法\WeightSort\bin\Debug\netcoreapp3.1\WeightSort.dll
+E:\Project\算法\WeightSort\bin\Debug\netcoreapp3.1\WeightSort.pdb
+E:\Project\算法\WeightSort\obj\Debug\netcoreapp3.1\WeightSort.csprojAssemblyReference.cache
+E:\Project\算法\WeightSort\obj\Debug\netcoreapp3.1\WeightSort.AssemblyInfoInputs.cache
+E:\Project\算法\WeightSort\obj\Debug\netcoreapp3.1\WeightSort.AssemblyInfo.cs
+E:\Project\算法\WeightSort\obj\Debug\netcoreapp3.1\WeightSort.csproj.CoreCompileInputs.cache
+E:\Project\算法\WeightSort\obj\Debug\netcoreapp3.1\WeightSort.dll
+E:\Project\算法\WeightSort\obj\Debug\netcoreapp3.1\WeightSort.pdb
+E:\Project\算法\WeightSort\obj\Debug\netcoreapp3.1\WeightSort.genruntimeconfig.cache
